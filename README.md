@@ -1,4 +1,5 @@
 # I'm updating this, original README is below
+Eventually this readme will probably be a mess because i'll probably host different projects but for now its just for this thingy
 # Interactive Crafting Tree Viewer
 
 A web tool to view interactive crafting trees for Terraria items, with support for items from the base game, Calamity, Shadows of Abaddon, Thorium and Fargo's Soul Mod.
