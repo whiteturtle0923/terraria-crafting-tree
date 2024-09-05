@@ -6,7 +6,7 @@ A web tool to view interactive crafting trees for Terraria items, with support f
 
 ![Ankh Shield and Terraspark Boots crafting trees](https://i.imgur.com/teAoY1e.jpeg)
 
-Try it out yourself at [carsmani.ac/terraria-crafting-tree](https://carsmani.ac/terraria-crafting-tree/)
+Try it out yourself at [whiteturtle0923.github.io](https://whiteturtle0923.github.io)
 
 All item/recipe info is stored in [this spreadsheet](https://docs.google.com/spreadsheets/d/1FiOxJA6pddiJBczLjyJC18MeN1E6jUv0p07iz6CuVzA/edit?usp=sharing), which is then downloaded as a csv, converted using `csv-json-converter.py` and stored in `in-game-items.json`. If you notice a typo, missing item or mistake with any of the recipes, let me know or leave a comment on the spreadsheet!
 
