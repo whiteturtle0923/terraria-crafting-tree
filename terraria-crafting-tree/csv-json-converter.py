@@ -1,6 +1,5 @@
 # Maintaining huge JSON files kinda sucks, it's easier to keep a list in Google Sheets,
 # export it as CSV and convert that to JSON, formatted just the way I need it.
-
 import csv
 
 csv_list = []
@@ -40,3 +39,9 @@ for item in csv_list:
 file.write("\t]\n")
 file.write("}\n")
 file.close()
+# import pandas as pd
+
+# with open('in-game-items.json', encoding='utf-8') as inputfile:
+#     df = pd.read_json(inputfile)
+
+# df.to_csv('csvfile.csv', encoding='utf-8', index=False)
